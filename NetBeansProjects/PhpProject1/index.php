@@ -208,9 +208,9 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Bienvenue dans le projet Openshift depuis Netbeans</h1>
+            <h1>الحمد لله رب العالمين</h1>
           </hgroup>
-
+            رحماك يارب
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
